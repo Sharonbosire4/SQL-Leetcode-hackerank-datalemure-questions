@@ -1,6 +1,4 @@
-#Leetcode question
-
-
+#Leetcode question 1
 Table: Person
 
 +-------------+---------+
@@ -70,10 +68,7 @@ FROM person p
 LEFT JOIN Address A
 ON P.personId = A.personId;
 
-
-
-
-#Leetcode question
+#Leetcode question 2
 
 Table: Sales
 
@@ -150,11 +145,7 @@ FROM sales s
 JOIN Product p
 ON s.product_id = p.product_id;
 
-
-
-
-
-#Leetcode question
+#Leetcode question 3
 
 
 Table: Employee
